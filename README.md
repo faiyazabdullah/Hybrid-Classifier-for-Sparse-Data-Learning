@@ -48,6 +48,9 @@ Finally, for better visualization of the model's performance graphs showing the 
     </tr>
   </table>
 
+  <h2>Code</h2>
+  <p>Here is a folder called <strong>notebooks</strong> which contains five notebooks of our experiment. We have shared five of our experimental notebooks publicly so that our readers can understand the workflow of our experiment and can use the codes if they need them. The rest of the experimental notebooks are private.</p>
+
   <h2>Contact</h2>
   <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
 
