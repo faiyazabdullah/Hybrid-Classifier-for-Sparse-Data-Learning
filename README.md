@@ -48,5 +48,9 @@ Finally, for better visualization of the model's performance graphs showing the 
     </tr>
   </table>
 
+  <h2>Contact</h2>
+  <p>For inquiries or feedback, feel free to contact us at msayeedi212049@bscse.uiu.ac.bd.</p>
+
+
 </body>
 </html>
