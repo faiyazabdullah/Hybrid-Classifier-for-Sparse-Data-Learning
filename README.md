@@ -1,4 +1,4 @@
-# Feature Engineered Naïve Bayes Classifier, Decision Tree, Random Forest, and Hybrid Ensemble Classifier for Sparse Data Learning
+# Hybrid Classifier for Sparse Data: Integrating Naïve Bayes, Decision Trees, and Random Forests for Enhanced Text, Image, and Anomaly Detection
 
 <strong>Experiment Outine</strong><br>
 Firstly, the traditional Naive Bayes, Decision Tree, and Random forest algorithms are trained with the non-feature-engineered datasets.  In addition to these existing algorithms, we also trained an Ensemble Learning Classifier. Then, their corresponding accuracy matrices (discussed in the evaluation matrices section below) were calculated. This set of experiments later served as the baseline accuracy that was targetted by our proposed algorithms to prove as the better alternatives.
